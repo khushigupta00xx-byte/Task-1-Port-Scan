@@ -1,0 +1,1102 @@
+# Nmap 7.95 scan initiated Thu Apr  9 09:20:28 2026 as: /usr/lib/nmap/nmap --privileged -sS -oN scan_results.txt 10.212.22.0/24
+Nmap scan report for 10.212.22.0
+Host is up (0.0030s latency).
+All 1000 scanned ports on 10.212.22.0 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.1
+Host is up (0.0033s latency).
+All 1000 scanned ports on 10.212.22.1 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.2
+Host is up (0.0025s latency).
+All 1000 scanned ports on 10.212.22.2 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.3
+Host is up (0.0029s latency).
+All 1000 scanned ports on 10.212.22.3 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.4
+Host is up (0.0041s latency).
+All 1000 scanned ports on 10.212.22.4 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.5
+Host is up (0.0030s latency).
+All 1000 scanned ports on 10.212.22.5 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.6
+Host is up (0.0040s latency).
+All 1000 scanned ports on 10.212.22.6 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.8
+Host is up (0.0038s latency).
+All 1000 scanned ports on 10.212.22.8 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.9
+Host is up (0.0031s latency).
+All 1000 scanned ports on 10.212.22.9 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.11
+Host is up (0.0031s latency).
+All 1000 scanned ports on 10.212.22.11 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.12
+Host is up (0.0032s latency).
+All 1000 scanned ports on 10.212.22.12 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.13
+Host is up (0.0041s latency).
+All 1000 scanned ports on 10.212.22.13 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.14
+Host is up (0.0037s latency).
+All 1000 scanned ports on 10.212.22.14 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.15
+Host is up (0.0039s latency).
+All 1000 scanned ports on 10.212.22.15 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.17
+Host is up (0.0031s latency).
+All 1000 scanned ports on 10.212.22.17 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.18
+Host is up (0.0031s latency).
+All 1000 scanned ports on 10.212.22.18 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.21
+Host is up (0.0025s latency).
+All 1000 scanned ports on 10.212.22.21 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.22
+Host is up (0.0040s latency).
+All 1000 scanned ports on 10.212.22.22 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.24
+Host is up (0.0029s latency).
+All 1000 scanned ports on 10.212.22.24 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.25
+Host is up (0.0026s latency).
+All 1000 scanned ports on 10.212.22.25 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.26
+Host is up (0.0024s latency).
+All 1000 scanned ports on 10.212.22.26 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.27
+Host is up (0.0030s latency).
+All 1000 scanned ports on 10.212.22.27 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.28
+Host is up (0.0022s latency).
+All 1000 scanned ports on 10.212.22.28 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.29
+Host is up (0.0037s latency).
+All 1000 scanned ports on 10.212.22.29 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.30
+Host is up (0.0027s latency).
+All 1000 scanned ports on 10.212.22.30 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.31
+Host is up (0.0020s latency).
+All 1000 scanned ports on 10.212.22.31 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.32
+Host is up (0.0026s latency).
+All 1000 scanned ports on 10.212.22.32 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.33
+Host is up (0.0044s latency).
+All 1000 scanned ports on 10.212.22.33 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.34
+Host is up (0.0029s latency).
+All 1000 scanned ports on 10.212.22.34 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.35
+Host is up (0.0025s latency).
+All 1000 scanned ports on 10.212.22.35 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.36
+Host is up (0.0024s latency).
+All 1000 scanned ports on 10.212.22.36 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.37
+Host is up (0.0029s latency).
+All 1000 scanned ports on 10.212.22.37 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.38
+Host is up (0.0037s latency).
+All 1000 scanned ports on 10.212.22.38 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.39
+Host is up (0.0024s latency).
+All 1000 scanned ports on 10.212.22.39 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.40
+Host is up (0.0027s latency).
+All 1000 scanned ports on 10.212.22.40 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.41
+Host is up (0.0031s latency).
+All 1000 scanned ports on 10.212.22.41 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.43
+Host is up (0.0038s latency).
+All 1000 scanned ports on 10.212.22.43 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.44
+Host is up (0.0033s latency).
+All 1000 scanned ports on 10.212.22.44 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.45
+Host is up (0.0024s latency).
+All 1000 scanned ports on 10.212.22.45 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.46
+Host is up (0.0024s latency).
+All 1000 scanned ports on 10.212.22.46 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.47
+Host is up (0.0044s latency).
+All 1000 scanned ports on 10.212.22.47 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.48
+Host is up (0.0043s latency).
+All 1000 scanned ports on 10.212.22.48 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.49
+Host is up (0.0029s latency).
+All 1000 scanned ports on 10.212.22.49 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.50
+Host is up (0.0020s latency).
+All 1000 scanned ports on 10.212.22.50 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.51
+Host is up (0.0024s latency).
+All 1000 scanned ports on 10.212.22.51 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.52
+Host is up (0.0018s latency).
+All 1000 scanned ports on 10.212.22.52 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.53
+Host is up (0.0044s latency).
+All 1000 scanned ports on 10.212.22.53 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.54
+Host is up (0.0030s latency).
+All 1000 scanned ports on 10.212.22.54 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.55
+Host is up (0.0017s latency).
+All 1000 scanned ports on 10.212.22.55 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.56
+Host is up (0.0027s latency).
+All 1000 scanned ports on 10.212.22.56 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.58
+Host is up (0.0037s latency).
+All 1000 scanned ports on 10.212.22.58 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.59
+Host is up (0.0033s latency).
+All 1000 scanned ports on 10.212.22.59 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.61
+Host is up (0.0027s latency).
+All 1000 scanned ports on 10.212.22.61 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.62
+Host is up (0.0032s latency).
+All 1000 scanned ports on 10.212.22.62 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.63
+Host is up (0.0019s latency).
+All 1000 scanned ports on 10.212.22.63 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.64
+Host is up (0.0040s latency).
+All 1000 scanned ports on 10.212.22.64 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.65
+Host is up (0.0031s latency).
+All 1000 scanned ports on 10.212.22.65 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.67
+Host is up (0.0032s latency).
+All 1000 scanned ports on 10.212.22.67 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.68
+Host is up (0.0028s latency).
+All 1000 scanned ports on 10.212.22.68 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.70
+Host is up (0.0032s latency).
+All 1000 scanned ports on 10.212.22.70 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.71
+Host is up (0.0026s latency).
+All 1000 scanned ports on 10.212.22.71 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.72
+Host is up (0.0036s latency).
+All 1000 scanned ports on 10.212.22.72 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.74
+Host is up (0.015s latency).
+All 1000 scanned ports on 10.212.22.74 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.75
+Host is up (0.0025s latency).
+All 1000 scanned ports on 10.212.22.75 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.76
+Host is up (0.0013s latency).
+All 1000 scanned ports on 10.212.22.76 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.77
+Host is up (0.0041s latency).
+All 1000 scanned ports on 10.212.22.77 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.78
+Host is up (0.0011s latency).
+All 1000 scanned ports on 10.212.22.78 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.79
+Host is up (0.0014s latency).
+All 1000 scanned ports on 10.212.22.79 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.80
+Host is up (0.0023s latency).
+All 1000 scanned ports on 10.212.22.80 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.83
+Host is up (0.00071s latency).
+All 1000 scanned ports on 10.212.22.83 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.84
+Host is up (0.00096s latency).
+All 1000 scanned ports on 10.212.22.84 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.86
+Host is up (0.0013s latency).
+All 1000 scanned ports on 10.212.22.86 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.87
+Host is up (0.0010s latency).
+All 1000 scanned ports on 10.212.22.87 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.88
+Host is up (0.0014s latency).
+All 1000 scanned ports on 10.212.22.88 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.89
+Host is up (0.00092s latency).
+All 1000 scanned ports on 10.212.22.89 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.90
+Host is up (0.0010s latency).
+All 1000 scanned ports on 10.212.22.90 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.91
+Host is up (0.00061s latency).
+All 1000 scanned ports on 10.212.22.91 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.92
+Host is up (0.0010s latency).
+All 1000 scanned ports on 10.212.22.92 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.93
+Host is up (0.0012s latency).
+All 1000 scanned ports on 10.212.22.93 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.95
+Host is up (0.00071s latency).
+All 1000 scanned ports on 10.212.22.95 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.96
+Host is up (0.0015s latency).
+All 1000 scanned ports on 10.212.22.96 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.98
+Host is up (0.00095s latency).
+All 1000 scanned ports on 10.212.22.98 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.99
+Host is up (0.0011s latency).
+All 1000 scanned ports on 10.212.22.99 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.100
+Host is up (0.00068s latency).
+All 1000 scanned ports on 10.212.22.100 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.101
+Host is up (0.0020s latency).
+All 1000 scanned ports on 10.212.22.101 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.102
+Host is up (0.00085s latency).
+All 1000 scanned ports on 10.212.22.102 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.103
+Host is up (0.00091s latency).
+All 1000 scanned ports on 10.212.22.103 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.104
+Host is up (0.0013s latency).
+All 1000 scanned ports on 10.212.22.104 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.105
+Host is up (0.0012s latency).
+All 1000 scanned ports on 10.212.22.105 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.106
+Host is up (0.00075s latency).
+All 1000 scanned ports on 10.212.22.106 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.107
+Host is up (0.00069s latency).
+All 1000 scanned ports on 10.212.22.107 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.108
+Host is up (0.00072s latency).
+All 1000 scanned ports on 10.212.22.108 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.109
+Host is up (0.0029s latency).
+All 1000 scanned ports on 10.212.22.109 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.110
+Host is up (0.00078s latency).
+All 1000 scanned ports on 10.212.22.110 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.111
+Host is up (0.0022s latency).
+All 1000 scanned ports on 10.212.22.111 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.112
+Host is up (0.0018s latency).
+All 1000 scanned ports on 10.212.22.112 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.113
+Host is up (0.00062s latency).
+All 1000 scanned ports on 10.212.22.113 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.114
+Host is up (0.0012s latency).
+All 1000 scanned ports on 10.212.22.114 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.115
+Host is up (0.0012s latency).
+All 1000 scanned ports on 10.212.22.115 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.117
+Host is up (0.0021s latency).
+All 1000 scanned ports on 10.212.22.117 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.118
+Host is up (0.00079s latency).
+All 1000 scanned ports on 10.212.22.118 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.119
+Host is up (0.0013s latency).
+All 1000 scanned ports on 10.212.22.119 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.120
+Host is up (0.00097s latency).
+All 1000 scanned ports on 10.212.22.120 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.121
+Host is up (0.00064s latency).
+All 1000 scanned ports on 10.212.22.121 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.123
+Host is up (0.0023s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+445/tcp open  microsoft-ds
+
+Nmap scan report for 10.212.22.124
+Host is up (0.0019s latency).
+All 1000 scanned ports on 10.212.22.124 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.126
+Host is up (0.0023s latency).
+All 1000 scanned ports on 10.212.22.126 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.127
+Host is up (0.0010s latency).
+All 1000 scanned ports on 10.212.22.127 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.129
+Host is up (0.00076s latency).
+All 1000 scanned ports on 10.212.22.129 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.131
+Host is up (0.00061s latency).
+All 1000 scanned ports on 10.212.22.131 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.132
+Host is up (0.00093s latency).
+All 1000 scanned ports on 10.212.22.132 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.133
+Host is up (0.00082s latency).
+All 1000 scanned ports on 10.212.22.133 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.134
+Host is up (0.00076s latency).
+All 1000 scanned ports on 10.212.22.134 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.135
+Host is up (0.0011s latency).
+All 1000 scanned ports on 10.212.22.135 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.136
+Host is up (0.00088s latency).
+All 1000 scanned ports on 10.212.22.136 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.137
+Host is up (0.0012s latency).
+All 1000 scanned ports on 10.212.22.137 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.138
+Host is up (0.00080s latency).
+All 1000 scanned ports on 10.212.22.138 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.139
+Host is up (0.0014s latency).
+All 1000 scanned ports on 10.212.22.139 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.140
+Host is up (0.00091s latency).
+All 1000 scanned ports on 10.212.22.140 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.141
+Host is up (0.00058s latency).
+All 1000 scanned ports on 10.212.22.141 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.142
+Host is up (0.00092s latency).
+All 1000 scanned ports on 10.212.22.142 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.143
+Host is up (0.00098s latency).
+All 1000 scanned ports on 10.212.22.143 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.144
+Host is up (0.00095s latency).
+All 1000 scanned ports on 10.212.22.144 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.145
+Host is up (0.00065s latency).
+All 1000 scanned ports on 10.212.22.145 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.146
+Host is up (0.00071s latency).
+All 1000 scanned ports on 10.212.22.146 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.147
+Host is up (0.00088s latency).
+All 1000 scanned ports on 10.212.22.147 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.148
+Host is up (0.00085s latency).
+All 1000 scanned ports on 10.212.22.148 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.149
+Host is up (0.0016s latency).
+All 1000 scanned ports on 10.212.22.149 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.150
+Host is up (0.010s latency).
+All 1000 scanned ports on 10.212.22.150 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.151
+Host is up (0.011s latency).
+All 1000 scanned ports on 10.212.22.151 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.153
+Host is up (0.0048s latency).
+All 1000 scanned ports on 10.212.22.153 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.154
+Host is up (0.016s latency).
+All 1000 scanned ports on 10.212.22.154 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.157
+Host is up (0.0031s latency).
+All 1000 scanned ports on 10.212.22.157 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.158
+Host is up (0.0029s latency).
+All 1000 scanned ports on 10.212.22.158 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.160
+Host is up (0.0092s latency).
+All 1000 scanned ports on 10.212.22.160 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.161
+Host is up (0.023s latency).
+All 1000 scanned ports on 10.212.22.161 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.163
+Host is up (0.0024s latency).
+All 1000 scanned ports on 10.212.22.163 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.164
+Host is up (0.021s latency).
+All 1000 scanned ports on 10.212.22.164 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.167
+Host is up (0.023s latency).
+All 1000 scanned ports on 10.212.22.167 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.168
+Host is up (0.021s latency).
+All 1000 scanned ports on 10.212.22.168 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.169
+Host is up (0.0098s latency).
+All 1000 scanned ports on 10.212.22.169 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.170
+Host is up (0.022s latency).
+All 1000 scanned ports on 10.212.22.170 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.171
+Host is up (0.023s latency).
+All 1000 scanned ports on 10.212.22.171 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.172
+Host is up (0.018s latency).
+All 1000 scanned ports on 10.212.22.172 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.173
+Host is up (0.0057s latency).
+All 1000 scanned ports on 10.212.22.173 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.174
+Host is up (0.010s latency).
+All 1000 scanned ports on 10.212.22.174 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.175
+Host is up (0.025s latency).
+All 1000 scanned ports on 10.212.22.175 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.176
+Host is up (0.0060s latency).
+All 1000 scanned ports on 10.212.22.176 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.177
+Host is up (0.017s latency).
+All 1000 scanned ports on 10.212.22.177 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.179
+Host is up (0.022s latency).
+All 1000 scanned ports on 10.212.22.179 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.180
+Host is up (0.022s latency).
+All 1000 scanned ports on 10.212.22.180 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.182
+Host is up (0.018s latency).
+All 1000 scanned ports on 10.212.22.182 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.183
+Host is up (0.0041s latency).
+All 1000 scanned ports on 10.212.22.183 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.184
+Host is up (0.013s latency).
+All 1000 scanned ports on 10.212.22.184 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.185
+Host is up (0.018s latency).
+All 1000 scanned ports on 10.212.22.185 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.186
+Host is up (0.018s latency).
+All 1000 scanned ports on 10.212.22.186 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.188
+Host is up (0.016s latency).
+All 1000 scanned ports on 10.212.22.188 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.189
+Host is up (0.019s latency).
+All 1000 scanned ports on 10.212.22.189 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.190
+Host is up (0.020s latency).
+All 1000 scanned ports on 10.212.22.190 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.191
+Host is up (0.0039s latency).
+All 1000 scanned ports on 10.212.22.191 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.193
+Host is up (0.020s latency).
+All 1000 scanned ports on 10.212.22.193 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.194
+Host is up (0.018s latency).
+All 1000 scanned ports on 10.212.22.194 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.196
+Host is up (0.025s latency).
+All 1000 scanned ports on 10.212.22.196 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.197
+Host is up (0.010s latency).
+All 1000 scanned ports on 10.212.22.197 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.199
+Host is up (0.022s latency).
+All 1000 scanned ports on 10.212.22.199 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.200
+Host is up (0.019s latency).
+All 1000 scanned ports on 10.212.22.200 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.201
+Host is up (0.0056s latency).
+All 1000 scanned ports on 10.212.22.201 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.203
+Host is up (0.0062s latency).
+All 1000 scanned ports on 10.212.22.203 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.204
+Host is up (0.016s latency).
+All 1000 scanned ports on 10.212.22.204 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.206
+Host is up (0.021s latency).
+All 1000 scanned ports on 10.212.22.206 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.207
+Host is up (0.0056s latency).
+All 1000 scanned ports on 10.212.22.207 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.209
+Host is up (0.011s latency).
+All 1000 scanned ports on 10.212.22.209 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.210
+Host is up (0.0043s latency).
+All 1000 scanned ports on 10.212.22.210 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.211
+Host is up (0.018s latency).
+All 1000 scanned ports on 10.212.22.211 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.212
+Host is up (0.010s latency).
+All 1000 scanned ports on 10.212.22.212 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.213
+Host is up (0.0018s latency).
+All 1000 scanned ports on 10.212.22.213 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.214
+Host is up (0.026s latency).
+All 1000 scanned ports on 10.212.22.214 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.215
+Host is up (0.017s latency).
+All 1000 scanned ports on 10.212.22.215 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.216
+Host is up (0.0030s latency).
+All 1000 scanned ports on 10.212.22.216 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.217
+Host is up (0.0051s latency).
+All 1000 scanned ports on 10.212.22.217 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.218
+Host is up (0.013s latency).
+All 1000 scanned ports on 10.212.22.218 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.219
+Host is up (0.016s latency).
+All 1000 scanned ports on 10.212.22.219 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.220
+Host is up (0.0044s latency).
+All 1000 scanned ports on 10.212.22.220 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.221
+Host is up (0.0041s latency).
+All 1000 scanned ports on 10.212.22.221 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.222
+Host is up (0.018s latency).
+All 1000 scanned ports on 10.212.22.222 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.223
+Host is up (0.019s latency).
+All 1000 scanned ports on 10.212.22.223 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.224
+Host is up (0.018s latency).
+All 1000 scanned ports on 10.212.22.224 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.225
+Host is up (0.018s latency).
+All 1000 scanned ports on 10.212.22.225 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.226
+Host is up (0.013s latency).
+All 1000 scanned ports on 10.212.22.226 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.227
+Host is up (0.019s latency).
+All 1000 scanned ports on 10.212.22.227 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.228
+Host is up (0.021s latency).
+All 1000 scanned ports on 10.212.22.228 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.229
+Host is up (0.0084s latency).
+All 1000 scanned ports on 10.212.22.229 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Warning: 10.212.22.255 giving up on port because retransmission cap hit (10).
+Nmap scan report for 10.212.22.230
+Host is up (0.044s latency).
+Not shown: 991 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+30/tcp   closed unknown
+90/tcp   closed dnsix
+179/tcp  closed bgp
+1556/tcp closed veritas_pbx
+5718/tcp closed dpm
+6692/tcp closed unknown
+7000/tcp closed afs3-fileserver
+7938/tcp closed lgtomapper
+9003/tcp closed unknown
+
+Nmap scan report for 10.212.22.231
+Host is up (0.00076s latency).
+Not shown: 993 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+30/tcp    closed unknown
+179/tcp   closed bgp
+898/tcp   closed sun-manageconsole
+4444/tcp  closed krb524
+5998/tcp  closed ncd-diag
+6692/tcp  closed unknown
+10012/tcp closed unknown
+
+Nmap scan report for 10.212.22.232
+Host is up (0.0038s latency).
+Not shown: 990 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+179/tcp  closed bgp
+912/tcp  closed apex-mesh
+1079/tcp closed asprovatalk
+1658/tcp closed sixnetudr
+3211/tcp closed avsecuremgmt
+4446/tcp closed n1-fwp
+5357/tcp closed wsdapi
+5825/tcp closed unknown
+5998/tcp closed ncd-diag
+6692/tcp closed unknown
+
+Nmap scan report for 10.212.22.233
+Host is up (0.0043s latency).
+All 1000 scanned ports on 10.212.22.233 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.234
+Host is up (0.0025s latency).
+All 1000 scanned ports on 10.212.22.234 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.235
+Host is up (0.0062s latency).
+All 1000 scanned ports on 10.212.22.235 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.236
+Host is up (0.0060s latency).
+All 1000 scanned ports on 10.212.22.236 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.237
+Host is up (0.00067s latency).
+All 1000 scanned ports on 10.212.22.237 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.238
+Host is up (0.00066s latency).
+All 1000 scanned ports on 10.212.22.238 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.240
+Host is up (0.0055s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+4848/tcp closed appserv-http
+
+Nmap scan report for 10.212.22.242
+Host is up (0.0011s latency).
+All 1000 scanned ports on 10.212.22.242 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.243
+Host is up (0.00052s latency).
+All 1000 scanned ports on 10.212.22.243 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.246
+Host is up (0.00064s latency).
+All 1000 scanned ports on 10.212.22.246 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.247
+Host is up (0.0022s latency).
+All 1000 scanned ports on 10.212.22.247 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.248
+Host is up (0.021s latency).
+All 1000 scanned ports on 10.212.22.248 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.249
+Host is up (0.00059s latency).
+All 1000 scanned ports on 10.212.22.249 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+Nmap scan report for 10.212.22.250
+Host is up (0.0065s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+1079/tcp closed asprovatalk
+
+Nmap scan report for 10.212.22.251
+Host is up (0.0072s latency).
+Not shown: 997 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+1057/tcp closed startron
+1718/tcp closed h323gatedisc
+7201/tcp closed dlip
+
+Nmap scan report for 10.212.22.252
+Host is up (0.014s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+4224/tcp closed xtell
+
+Nmap scan report for 10.212.22.253
+Host is up (0.0020s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT    STATE  SERVICE
+898/tcp closed sun-manageconsole
+
+Nmap scan report for 10.212.22.255
+Host is up (0.0030s latency).
+All 1000 scanned ports on 10.212.22.255 are in ignored states.
+Not shown: 972 closed tcp ports (reset), 28 filtered tcp ports (no-response)
+
+# Nmap done at Thu Apr  9 10:23:19 2026 -- 256 IP addresses (213 hosts up) scanned in 3771.23 seconds
